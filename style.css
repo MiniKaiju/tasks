@@ -10,3 +10,16 @@ h1 {
   font-style: italic;
   color: white;
 }
+
+.w3-col{
+  width: 150px;
+  
+}
+
+.col-2{
+  width: 20%;
+}
+
+.col-3{
+  width: 60%;
+}
